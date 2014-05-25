@@ -1,4 +1,4 @@
 node-start
-==========
+============
 
-barebones node repo with grunt, mocha, sinon, chai, mochacli, grunt-watch set to run unit tests
+barebones node repo with: grunt installed, testing setup with mocha, sinon, chai. Grunt tasks mochacli and watch to run tests on file change. A simple travis-ci config
